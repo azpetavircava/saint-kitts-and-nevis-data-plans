@@ -44,3 +44,10 @@ layout: default
 ---
 
 　　**最后唠叨一句：** 网络只是工具，别让它框住眼前的碧蓝。设置好自动更新关闭，让手机也度个假——毕竟，圣基茨的日落，值得你百分百投入去看。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Kitts And Nevis SIM 卡购买与激活指南](https://faciylike.github.io/saint-kitts-and-nevis-sim-guides)
